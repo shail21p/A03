@@ -1,17 +1,17 @@
 # A03
 Part 1
 
-Creating a Webstorm and Git, Github.
-download the webstorm student version from the link https://www.jetbrains.com/community/education/#students 
-register with your @njit.edu email address to verify school
-download the webstorm application from the list of programs given
-log on to Github.com and register with them again with your njit.edu email address
-download git https://git-scm.com/downloads for your specific working system (windows/mac/linux)
-open webstorm from your desktop (previously downloaded)
-create a new project from file drop down menu
-click on the VCS dropdown menu on the top left
-import version control, you should see an option for Git repository, click on it, click ok
-commit the file to git from there.
+1. Creating a Webstorm and Git, Github. <br>
+2. download the webstorm student version from the link https://www.jetbrains.com/community/education/#students .<br>
+3. register with your @njit.edu email address to verify school.<br>
+4. download the webstorm application from the list of programs given.<br>
+5. log on to Github.com and register with them again with your njit.edu email address.<br>
+6. download git https://git-scm.com/downloads for your specific working system. (windows/mac/linux)<br>
+7. open webstorm from your desktop (previously downloaded).<br>
+8. create a new project from file drop down menu.<br>
+9. click on the VCS dropdown menu on the top left.<br>
+10. import version control, you should see an option for Git repository, click on it, click ok.<br>
+11. commit the file to git from there.<br>
 
 Part 2
 
