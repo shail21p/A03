@@ -15,7 +15,7 @@ commit the file to git from there.
 
 Part 2
 
-**Branch**: branches let you create a new line of the current work to experiment on, without disturbing the original code. /ln
+**Branch**: branches let you create a new line of the current work to experiment on, without disturbing the original code. \ln
 **Clone**: a clone is a local copy of your repository.
 **Commit**: when you make a change to a file, you hit the commit, this lets you see the specific revisions made to the file.
 **Fetch**: fetch downloads new data from remote repositories
